@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "CSSConf Australia 2016"
-email: "team@cssconf.com.au"
-description: "A one day conference bringing together the designers and developers of the future of the web."
+title: "JSConf Australia 2016"
+email: "team@jsconfau.com"
+description: "A one day conference bringing together developers and the future of the web."
 baseurl: ""
 url: ""
 ticket_url: "http://ti.to/cssconf-au/2016/"
