@@ -1,3 +1,6 @@
+// Original reference: http://jsfiddle.net/xcs1y127/10/
+// Additional modifications: http://github.com/kolber
+
 (function() {
   var isPlaying = false;
   var tickCallCount = 0;
