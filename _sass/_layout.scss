@@ -106,7 +106,7 @@
   position: absolute;
   right: 2rem;
   top: 20rem;
-  z-index: 2;
+  z-index: 3;
   & {
     background: transparent 50% 50% no-repeat;
     background-image: url('data:image/svg+xml;utf8,<svg fill="#fff" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M8 5v14l11-7z"/></svg>');
@@ -118,6 +118,10 @@
   &:hover {
     opacity: 0.75;
   }
+  @media screen and (max-width: $break-mobile) {
+    top: 6rem;
+    right: 8rem;
+  }
 }
 
 .c-reset {
@@ -126,6 +130,10 @@
   .is-playing & {
     background: transparent 50% 50% no-repeat;
     background-image: url('data:image/svg+xml;utf8,<svg fill="#fff" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M12 5V1L7 6l5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z"/></svg>');
+  }
+  @media screen and (max-width: $break-mobile) {
+    top: 6rem;
+    right: 2rem;
   }
 }
 
