@@ -1,3 +1,20 @@
+.home-link {
+  .header:hover & a {
+    display: inline-block;
+  }
+  a {
+    border-bottom: 2px solid transparent;
+    color: inherit;
+    display: none;
+    &:first-child {
+      display: inline-block;
+    }
+    &:hover {
+      border-bottom: 2px solid;
+    }
+  }
+}
+
 .header {
   background: transparent url('../images/JS-BG.png') 0 82% repeat-x;
   background-position-x: 25%;
@@ -29,23 +46,6 @@
     &:nth-child(3) {
       position: absolute;
       right: 2rem;
-    }
-  }
-
-  .home-link {
-    &:hover a {
-      display: inline-block;
-    }
-    a {
-      border-bottom: 2px solid transparent;
-      color: inherit;
-      display: none;
-      &:first-child {
-        display: inline-block;
-      }
-      &:hover {
-        border-bottom: 2px solid;
-      }
     }
   }
 
