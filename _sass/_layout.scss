@@ -244,6 +244,9 @@
     max-width: 100%;
     transition: opacity 350ms ease-in-out;
   }
+  &--minor img {
+    max-height: 3rem;
+  }
   &--grand img {
     max-height: 12rem;
   }
