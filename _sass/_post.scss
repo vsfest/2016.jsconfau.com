@@ -1,9 +1,9 @@
 .row-article {
   border-bottom: 2px solid;
   padding-bottom: 8rem;
-  
+
   strong {
-    font-weight: bold;
+    // font-weight: bold;
   }
 
   li {
@@ -12,24 +12,13 @@
 
   h1 {
     margin-bottom: 0;
+    margin-top: 1.5em;
+    // font-weight: bold;
+    font-size: 1.2em;
   }
 }
 
 .meta {
   display: block;
   margin-top: 5rem;
-}
-
-.person {
-  display: flex;
-  border: 0;
-  .photo img {
-    border-radius: 50%;
-    display: block;
-    overflow: hidden;
-    margin-right: 1rem;
-    margin-top: 0.5rem;
-    max-width: 5rem;
-    flex: 0 0 5rem;
-  }
 }
