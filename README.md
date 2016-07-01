@@ -1,4 +1,4 @@
-# CSSConf 2016
+# JSConf AU 2016
 
 ## Setup
 ```
