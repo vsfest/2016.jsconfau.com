@@ -253,18 +253,39 @@
   }
 }
 
-.person {
+.cfp {
+  align-items: center;
+  background-color: #ff0;
+  border-radius: 50%;
   display: flex;
-  border: 0;
-  
-  .photo img {
-    border-radius: 50%;
-    display: block;
-    overflow: hidden;
-    margin-right: 1rem;
-    margin-top: 0.75rem;
-    max-width: 5rem;
-    flex: 0 0 5rem;
+  font-family: 'Maison Neue Mono', sans-serif;
+  font-size: 80%;
+  height: 20rem;
+  justify-content: center;
+  left: 50%;
+  line-height: 1.45;
+  margin: 0;
+  margin-left: 23rem;
+  padding: 1rem;
+  position: absolute;
+  text-decoration: underline;
+  top: 10rem;
+  width: 20rem;
+  z-index: 100;
+  a {
+    border: 0;
+  }
+  @media screen and (max-width: 62.75rem) {
+    font-size: 60%;
+    margin-left: 0;
+    height: 12rem;
+    left: auto;
+    right: 0;
+    top: 6rem;
+    width: 12rem;
+  }
+  @media screen and (max-width: $break-mobile) {
+    top: 10rem;
   }
 }
 
