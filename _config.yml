@@ -18,6 +18,7 @@ cssconf_url: "http://2016.cssconf.com.au"
 decompress_url: "http://decompress.com.au"
 collections:
   - team
+  - speakers
 
 # Build settings
 markdown: kramdown
