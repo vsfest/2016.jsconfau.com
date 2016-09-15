@@ -288,7 +288,7 @@
   }
 
   &:hover {
-    cursor: pointer;
+    // cursor: pointer;
     .photo {
       background-color: $primary;
 
@@ -330,7 +330,7 @@
   .twitters,
   .em {
     // font-family: $mono;
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     line-height: 1.35;
     margin: 0;
   }
@@ -382,7 +382,7 @@
     box-sizing: border-box;
     margin-bottom: 4rem;
     padding: 0.5rem 0;
-    width: calc(100% * 1 / 3);
+    width: calc(100% * 1 / 4);
     @media screen and (max-width: $break-form) {
       width: calc(100% * 1 / 2);
     }
