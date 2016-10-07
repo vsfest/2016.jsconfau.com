@@ -1,6 +1,3 @@
-$sans: 'Maison Neue', sans-serif;
-$mono: 'Maison Neue Mono', sans-serif;
-
 html {
   background-color: $primary;
   font-size: 62.5%;
@@ -8,9 +5,10 @@ html {
 
 body {
   background-color: #fff;
-  color: $primary;
+  color: #000;
   font-family: $sans;
   font-size: 2.4rem;
+  letter-spacing: 0.05rem;
   line-height: 1.45;
   margin: 0;
   -webkit-text-size-adjust: 85%;
@@ -25,33 +23,20 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-  margin-top: 2.4rem;
   margin-bottom: 5rem;
   text-indent: 0;
   text-transform: uppercase;
   letter-spacing: 0.3rem;
 }
 
-.speakers {
-  h1 {
-    text-align: center;
-    padding-bottom: 10rem;
-
-    @media(max-width: 480px) {
-      padding-top: 5rem;
-    }
-  }
-}
-
-strong {
-  font-weight: normal
-}
-
 a {
   border-bottom: 2px solid;
-  color: inherit;
+  color: $primary;
   text-decoration: none;
-  transition: color 350ms ease-in-out;
+  //transition: color 250ms ease-in-out;
+  &.clean {
+    border: 0;
+  }
 }
 a:hover,
 button:hover  {
@@ -66,6 +51,27 @@ button:active {
 
 img {
   max-width: 100%;
+}
+
+ul,
+ol {
+  padding-left: 3rem;
+  margin-bottom: 0.75rem;
+  margin-top: 0.75rem;
+  li {
+    margin-bottom: 0.75rem;
+  }
+}
+ul  {
+  li {
+    list-style: none;
+    position: relative;
+    &:before {
+      content: '—';
+      left: -3rem;
+      position: absolute;
+    }
+  }
 }
 
 time, address {
@@ -138,6 +144,7 @@ button {
   color: inherit;
   display: inline-block;
   font-size: inherit;
+  letter-spacing: inherit;
   outline: 0;
   padding: 0.75rem 0;
   transition: color 350ms ease-in-out;
