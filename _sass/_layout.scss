@@ -211,6 +211,8 @@
       }
 
       &:hover {
+        z-index: 100;
+
         .photo-wrapper {
           mix-blend-mode: multiply;
         }
