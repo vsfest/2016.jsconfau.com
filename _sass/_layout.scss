@@ -40,19 +40,24 @@
   position: fixed;
   top: 0;
   width: 100%;
-  z-index: 15;
+  z-index: 150;
+
   a {
     transition: none;
   }
+
   p {
     flex: 1;
     margin: 0;
+
     &:nth-child(1) {
       padding-right: 2rem;
     }
+
     &:nth-child(2) {
       flex: 2;
     }
+
     &:nth-child(3) {
       position: absolute;
       right: 2rem;
