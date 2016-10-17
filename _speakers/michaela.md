@@ -5,4 +5,5 @@ bio: 'is creative front-end developer and designer from Berlin. She is specializ
 website: 'geildanke.com/en'
 twitter: 'fischaelameer'
 photo: 'speaker-michaela.jpg'
+interview: 'michaela-lehr'
 ---
