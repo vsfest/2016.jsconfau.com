@@ -5,4 +5,5 @@ bio: 'As much as Lena Reinhard always loved computers, she was always a bit more
 website: 'lenareinhard.com'
 twitter: 'lrnrd'
 photo: 'speaker-lena.jpg'
+interview: 'lena-reinhard'
 ---
