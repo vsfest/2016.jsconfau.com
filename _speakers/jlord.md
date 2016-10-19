@@ -5,4 +5,5 @@ bio: 'Jessica is an engineer on the Electron team at GitHub. She is an urban des
 website: 'http://jlord.us'
 twitter: 'jllord'
 photo: 'speaker-jlord.png'
+interview: 'jessica-lord'
 ---

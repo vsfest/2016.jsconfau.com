@@ -5,4 +5,5 @@ bio: 'Jess loves JavaScript and the open source community built around it. He ha
 website: 'http://github.com/jesstelford'
 twitter: 'jesstelford'
 photo: 'speaker-jess.jpg'
+interview: 'jess-telford'
 ---

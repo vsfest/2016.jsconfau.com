@@ -5,4 +5,5 @@ bio: 'is a web technologist and Google Developer Expert. She likes to educate an
 website: 'http://rumyrashead.com'
 twitter: 'rumyra'
 photo: 'speaker-ruth.jpg'
+interview: 'ruth-john'
 ---
