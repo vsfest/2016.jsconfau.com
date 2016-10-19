@@ -5,4 +5,5 @@ bio: 'is a programmer and writer living in Brooklyn NY. When he is not building 
 website: 'http://justinfalcone.com'
 twitter: 'modernserf'
 photo: 'speaker-justin.jpg'
+interview: 'justin-falcone'
 ---
