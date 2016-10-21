@@ -5,4 +5,5 @@ bio: 'is a 23 year old hacker from Denmark. He used to study maths, but quickly 
 website: 'http://bayes.dk'
 twitter: 'emilbayes'
 photo: 'speaker-emil.jpg'
+interview: 'emil-bay'
 ---
