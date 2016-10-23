@@ -5,4 +5,5 @@ bio: 'Jacob Bass loves delivering tooling and improving developer experiences. H
 website: 'http://bassjacob.com'
 twitter: 'bassjacob'
 photo: 'speaker-jacob.jpg'
+interview: 'jacob-bass'
 ---
