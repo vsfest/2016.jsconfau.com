@@ -5,5 +5,5 @@ bio: 'is an Engineer at Mozilla. Building real time audio+graphics experiments w
 website: 'http://soledadpenades.com'
 twitter: 'supersole'
 photo: 'speaker-sole.jpg'
-interview: 'soledad-penades'
+interview: 'soledad-penandes'
 ---
