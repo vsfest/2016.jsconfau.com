@@ -1,8 +1,8 @@
 ---
 layout: interview
-title:  "A moment with Emil Bey"
+title:  "A moment with Emil Bay"
 date:   2016-10-21 21:37:14 +1000
-interviewee: "Emil Bey"
+interviewee: "Emil Bay"
 ---
 
 __[Q] Tell us a bit about yourself and what you do?__
