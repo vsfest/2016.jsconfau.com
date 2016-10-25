@@ -1,8 +1,8 @@
 ---
 layout: interview
-title:  "A moment with Soledad Penandes"
+title:  "A moment with Soledad Penades"
 date:   2016-10-17 21:37:14 +1000
-interviewee: "Soledad Penandes"
+interviewee: "Soledad Penades"
 ---
 
 __[Q] Who in the industry consistently blows you away with incredible work?__
