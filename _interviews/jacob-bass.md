@@ -6,9 +6,9 @@ interviewee: "Jacob Bass"
 ---
 __[Q] Who in the industry consistently blows you away with incredible work?__
 
-I've been learning functional programming, and would have been lost without the educational resources provided by Julie Moronoki ([@argumatronic](http://twitter.com/argumatronic)) and Chris Allen ([@bitemyapp](http://twitter.com/bitemyapp)), as well as the awesome course by Tony Morris from Data61.
+I've been learning functional programming, and would have been lost without the educational resources provided by Julie Moronuki ([@argumatronic](http://twitter.com/argumatronic "Moronuki on Twitter")) and Chris Allen ([@bitemyapp](http://twitter.com/bitemyapp "Allen on Twitter")), as well as the awesome course by Tony Morris from Data61.
 
-The work by Giuilo Canti ([@gcanti](http://twitter.com/gcanti)) on patterns for adding types to JavaScript with Flow, specifically [Flow Static Land](https://github.com/gcanti/flow-static-land) has been amazing. Eric Clemmons ([@ericclemmons](http://twitter.com/ericclemmons)) has been an inspiration in my work on tooling. I love almost everything done by ThoughtBot in the states.
+The work by Giuilo Canti ([@gcanti](http://twitter.com/gcanti "Canti on Twitter")) on patterns for adding types to JavaScript with Flow, specifically [Flow Static Land](https://github.com/gcanti/flow-static-land "Flow Static Land on GitHub") has been amazing. Eric Clemmons ([@ericclemmons](http://twitter.com/ericclemmons "Clemmons on Twitter")) has been an inspiration in my work on tooling. I love almost everything done by ThoughtBot in the states.
 
 __[Q] Tell us about the journey that led you to what you're doing.__
 
