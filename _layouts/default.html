@@ -4,15 +4,15 @@
 <body>
   {% include header.html %}
   <div class="intro">
+    <div class="camo">
+      {% include camo.svg %}
+    </div>
     <div class="logo">
       <a href="{{ '/' | prepend: site.github.url }}">
         {% include logo.svg %}
       </a>
     </div>
     {% include speakers.html %}
-    <div class="camo">
-      {% include camo.svg %}
-    </div>
   </div>
   <div class="wrapper content-wrapper">
     {{ content }}
