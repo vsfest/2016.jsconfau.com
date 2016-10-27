@@ -119,12 +119,10 @@
   padding-top: 10rem;
 
   .logo {
-    display: flex;
-    justify-content: center;
     margin: 0 auto;
-    position: relative;
     padding-bottom: 4.5rem;
-    width: 43rem;
+    position: relative;
+    width: 35rem;
     z-index: 150;
 
     @media (max-width: 550px) {
