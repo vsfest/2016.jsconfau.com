@@ -40,7 +40,7 @@
   position: fixed;
   top: 0;
   width: 100%;
-  z-index: 150;
+  z-index: 160;
 
   a {
     transition: none;
@@ -119,13 +119,13 @@
   padding-top: 10rem;
 
   .logo {
-    position: relative;
-    width: 43rem;
-    margin: 0 auto;
-    padding-bottom: 4.5rem;
-    z-index: 10;
     display: flex;
     justify-content: center;
+    margin: 0 auto;
+    position: relative;
+    padding-bottom: 4.5rem;
+    width: 43rem;
+    z-index: 150;
 
     @media (max-width: 550px) {
       width: 75vw;
