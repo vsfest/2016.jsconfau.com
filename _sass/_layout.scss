@@ -135,10 +135,13 @@
 
     svg {
       max-width: 100%;
+      position: relative;
+
       path, text {
         fill: $primary;
         mix-blend-mode: multiply;
       }
+
       rect {
         stroke: $primary;
         mix-blend-mode: multiply;
