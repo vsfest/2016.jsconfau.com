@@ -439,6 +439,12 @@ a.list {
   &--inline {
     display: block;
   }
+  &--past {
+	  time,
+	  span {
+		  	opacity: .5;
+	  }
+  }
   time:before {
     content: "\25CF";
     margin-right: 0.5rem;
